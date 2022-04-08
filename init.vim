@@ -18,7 +18,7 @@ endif
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'akinsho/toggleterm.nvim'
 call plug#end()
-
+ 
 syntax on
 set nu              
 set tabstop=2    
